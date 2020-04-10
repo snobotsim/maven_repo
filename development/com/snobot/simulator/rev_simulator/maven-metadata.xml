@@ -3,10 +3,10 @@
   <groupId>com.snobot.simulator</groupId>
   <artifactId>rev_simulator</artifactId>
   <versioning>
-    <release>1.5.0_V0</release>
+    <release>1.5.0_V1</release>
     <versions>
-      <version>1.5.0_V0</version>
+      <version>1.5.0_V1</version>
     </versions>
-    <lastUpdated>20200106160502</lastUpdated>
+    <lastUpdated>20200410201840</lastUpdated>
   </versioning>
 </metadata>
