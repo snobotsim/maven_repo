@@ -1,0 +1,46 @@
+//{
+//    "fileName": "SnobotSim.json",
+//    "name": "SnobotSim",
+//    "version": "2022.2.2.0",
+//    "uuid": "ce129af4-2aec-4339-b7fd-dda8634bf7ac",
+//    "mavenUrls": ["https://raw.githubusercontent.com/snobotsim/testing/master/release"],
+//    "jsonUrl": "http://raw.githubusercontent.com/snobotsim/maven_repo/testing/release/GirlsOfSteelLib.json",
+//    "javaDependencies": [
+//        {
+//            "groupId": "org.snobotv2",
+//            "artifactId": "snobot_sim_java",
+//            "version": "2022.2.2.0"
+//        }
+//    ],
+//    "jniDependencies": [],
+//    "cppDependencies": []
+//}
+
+{
+    "fileName": "GirlsOfSteelLib.json",
+    "name": "GirlsOfSteelLib",
+    "version": "1.2.3.5",
+    "uuid": "ce129af4-2aec-4339-b7fd-dda8634bf7a3",
+    "mavenUrls": ["https://raw.githubusercontent.com/snobotsim/maven_repo/testing/release"],
+    "jsonUrl": "http://raw.githubusercontent.com/snobotsim/maven_repo/master/testing/GirlsOfSteelLib.json",
+    "javaDependencies": [
+        {
+            "groupId": "com.gos.lib",
+            "artifactId": "GirlsOfSteelLib",
+            "version": "1.2.3.5"
+        },
+        {
+            "groupId": "com.gos.ctre",
+            "artifactId": "GirlsOfSteelLibCtre",
+            "version": "1.2.3.5"
+        },
+        {
+            "groupId": "com.gos.lib.rev",
+            "artifactId": "GirlsOfSteelLibRev",
+            "version": "1.2.3.5"
+        }
+    ],
+    "jniDependencies": [],
+    "cppDependencies": []
+}
+
