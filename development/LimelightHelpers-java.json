@@ -1,0 +1,20 @@
+
+{
+    "fileName": "LimelightHelpers-java.json",
+    "name": "LimelightHelpers-java",
+    "version": "",
+    "uuid": "cad6ad40-a8bf-11ed-b6a6-150b08ecb111",
+    "mavenUrls": ["https://raw.githubusercontent.com/snobotsim/maven_repo/limelight_Test/development"],
+    "jsonUrl": "http://raw.githubusercontent.com/snobotsim/maven_repo/limelight_Test/development/LimelightHelpers-java.json",
+    "javaDependencies": [
+      {
+        "groupId": "io.limelightvision",
+        "artifactId": "limelightlib-wpijava",
+        "version": ""
+      }
+    ],
+    "jniDependencies": [],
+    "cppDependencies": []
+  }
+  
+  
