@@ -3,11 +3,11 @@
   <groupId>io.limelightvision</groupId>
   <artifactId>limelightlib-wpijava</artifactId>
   <versioning>
-    <latest>v0.0.0</latest>
-    <release>v0.0.0</release>
+    <latest>v0.0.1</latest>
+    <release>v0.0.1</release>
     <versions>
-      <version>v0.0.0</version>
+      <version>v0.0.1</version>
     </versions>
-    <lastUpdated>20230209212200</lastUpdated>
+    <lastUpdated>20230210035605</lastUpdated>
   </versioning>
 </metadata>
