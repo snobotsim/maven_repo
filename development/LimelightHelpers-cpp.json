@@ -4,8 +4,8 @@
     "name": "LimelightHelpers-cpp",
     "version": "v0.0.0",
     "uuid": "ec44a810-a900-11ed-a53c-b76714648551",
-    "mavenUrls": ["https://raw.githubusercontent.com/LimelightVision/maven_repo/master"],
-    "jsonUrl": "http://raw.githubusercontent.com/LimelightVision/maven_repo/master/LimelightHelpers-cpp.json",
+    "mavenUrls": ["https://raw.githubusercontent.com/snobotsim/maven_repo/limelight_Test/development"],
+    "jsonUrl":    "https://raw.githubusercontent.com/snobotsim/maven_repo/limelight_Test/development/LimelightHelpers-cpp.json",
     "javaDependencies": [],
     "jniDependencies": [],
     "cppDependencies": [
