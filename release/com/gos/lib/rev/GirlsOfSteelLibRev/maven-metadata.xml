@@ -3,11 +3,11 @@
   <groupId>com.gos.lib.rev</groupId>
   <artifactId>GirlsOfSteelLibRev</artifactId>
   <versioning>
-    <latest>2023.02.17-00</latest>
-    <release>2023.02.17-00</release>
+    <latest>2024.01.09-04</latest>
+    <release>2024.01.09-04</release>
     <versions>
-      <version>2023.02.17-00</version>
+      <version>2024.01.09-04</version>
     </versions>
-    <lastUpdated>20230217004616</lastUpdated>
+    <lastUpdated>20240109043107</lastUpdated>
   </versioning>
 </metadata>
