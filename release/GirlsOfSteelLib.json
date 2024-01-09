@@ -4,6 +4,7 @@
   "name": "GirlsOfSteelLib",
   "version": "2024.01.09-04",
   "uuid": "e939e100-aea7-11ee-b5ed-3b3183c35af6",
+  "frcYear": "2024",
   "mavenUrls": ["https://raw.githubusercontent.com/snobotsim/maven_repo/master/development"],
   "jsonUrl": "http://raw.githubusercontent.com/snobotsim/maven_repo/master/release/GirlsOfSteelLib.json",
   "javaDependencies": [
